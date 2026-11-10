@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forg.example.com/sitemap.xml
